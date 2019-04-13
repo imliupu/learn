@@ -17,3 +17,8 @@
 学习并实现线性回归的随机梯度下降法，在iris数据集上测试。提交linear_iris_yourname.py或者notebook文件至learn/works/work_4下。
 发布人：liupu
 2019.4.11
+
+第5次作业：
+学习Kmeans算法，并实现对iris数据集的聚类。提交kmeans_iris_yourname.py或者notebook文件至learn/works/work_5下。
+发布人：liupu
+2019.4.13
