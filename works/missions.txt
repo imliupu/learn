@@ -24,6 +24,6 @@
 2019.4.13
 
 第6次作业：
-学习并实现softmax regression的梯度下降优化，在iris数据集上测试。提交softmax_iris_yourname.py或者notebook文件至learn/works/work_6下。
+学习并实现logist regression的梯度下降优化，在iris数据集上测试。提交logist_iris_yourname.py或者notebook文件至learn/works/work_6下。
 发布人：liupu
 2019.4.18
